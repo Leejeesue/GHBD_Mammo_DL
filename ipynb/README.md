@@ -5,6 +5,9 @@
   각종 파일 데이터클리닝 & 분석에 활용한 자료 만들기  
   Density reading이 완료된 자료를 바탕으로 DICOM 파일과 매칭
   
+### vendor
+  mammography에 사용된 vendor 확인
+  
 ### 2a_process 
   분석에 적절한 이미지 선정 및 전처리 실시
   
